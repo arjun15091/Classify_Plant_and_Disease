@@ -60,6 +60,9 @@ This process for building a model which can detect the disease assocaited with t
 All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
 <br/>
 
+## Flow chart :
+
+![flow chart](https://user-images.githubusercontent.com/91031609/134039890-88fe27cd-f231-4300-8eba-cf379daf94e7.PNG)
 
 
 ## Details about the model
